@@ -30,7 +30,7 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create an Option Menu
-Developed by:  HEMANTH BABU
+Developed by:  HEMANTH BABU M B
 RegisterNumber:  212222220015  
 */
 ```
